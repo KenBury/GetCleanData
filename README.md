@@ -26,3 +26,5 @@ The run_analysis.R is an R script that does the following:
 16. Cast meltkeepdata by ActivityType and the averages of each variable into a tidydata data frame.
 17. The column names of the tidydata frame need to be renamed to refect the average of the original descriptive name. 
 18. Write the tidydata data frame out to a tidydata.txt file.
+
+The script was run using Rstudio Version 0.98.953, R version 3.1.1, Windows 7 platform
